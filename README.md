@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @etimaessien007
-- 👀 I’m interested in cyber-security, Emerging technologies, and IT Tech .
-- 🌱 I’m currently learning Full-Stack Web developemnt and IT Tech Support.
-- 💞️ I’m looking to collaborate on different programming projects in Python, React native, etc.
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Analystics, Emerging technologies, and IT Tech .
+- 🌱 I’m currently seeking a Job in IT related fields, Data Analystics.
+- 💞️ I’m looking to collaborate on different programming projects in Python, Power BI, Visualization, SQL etc.
+- 📫 How to reach me at my email 'etima_essien99@yahoo.com'...
 
 <!---
 etimaessien007/etimaessien007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
