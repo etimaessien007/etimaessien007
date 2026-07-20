@@ -1,6 +1,6 @@
 👋 Hi, I’m @etimaessien007
 # 💫 About Me:
-🔭 I’m currently working on obtaining my CompTIA Sec+ certification.<br>👯 I’m looking to collaborate on AI Automation, software designing and cybersecurity projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning AI automation tools and how to apply them in small businesses<br>💬 Ask me about anything for now :) <br>⚡ Fun fact - I believe everything will come to motion in due time.
+🔭 I’m currently working on obtaining my CompTIA Sec+ certification.<br>👯 I’m looking to expand my network, and collborate with like-minded cyber security enthusiats.<br>🤝 I’m looking for help with <br>🌱 I’m currently learning and develping my cybersecurity skills and service desk analyst skills and how to apply them in the real world.<br>💬 Ask me about anything for now :) <br>⚡ Fun fact - Consistency is the key to everlasting success.
 
 
 ## 🌐 Socials:
